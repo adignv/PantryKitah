@@ -25,4 +25,4 @@ Ikuti langkah-langkah berikut untuk menjalankan aplikasi ini di komputer lokalmu
 
 1. **Clone repositori ini:**
    ```bash
-   git clone [https://github.com/username-kamu/PantriKita.git](https://github.com/username-kamu/PantriKita.git)
+https://github.com/adignv/PantryKitah/releases
